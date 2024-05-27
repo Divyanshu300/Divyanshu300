@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="350" height="300" src="https://t3.ftcdn.net/jpg/07/13/35/82/360_F_713358254_pM12hayFvGkMbXwU1wERawwC2Tu3Mfpy.jpg"/>
 
 
-* 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu800/StudyNotion.git)
+* 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu800/StudyNotion.git) and [Chat App](https://github.com/Divyanshu800/Chat-app.git)
 
 * 🌱 I’m leveraging my skills in **MERN stack**
 
