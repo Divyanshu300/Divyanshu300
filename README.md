@@ -3,7 +3,6 @@
 <h3 align="center">Innovative Full Stack MERN Developer | C++ Data Structures and Algorithms Expert | Exploring the Frontiers of Data Science and Machine Learning</h3>
 <br></br>
 <br></br>
-<br></br>
 <img align="right" alt="Coding" width="350" height="300" src="https://t3.ftcdn.net/jpg/07/13/35/82/360_F_713358254_pM12hayFvGkMbXwU1wERawwC2Tu3Mfpy.jpg"/>
 
 
