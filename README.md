@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Divyanshu Pathak</h1>
 <h3 align="center">Innovative Full Stack MERN Developer | C++ Data Structures and Algorithms Expert | Exploring the Frontiers of Data Science and Machine Learning</h3>
-
+<br></br>
 <br></br>
 <br></br>
 <img align="right" alt="Coding" width="350" height="300" src="https://t3.ftcdn.net/jpg/07/13/35/82/360_F_713358254_pM12hayFvGkMbXwU1wERawwC2Tu3Mfpy.jpg"/>
