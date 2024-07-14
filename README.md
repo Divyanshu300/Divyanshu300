@@ -17,7 +17,7 @@
 
 * 📫 How to reach me **pathakdivyanshu800@gmail.com**
 
-* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_Xq4TZfhIMrF8QghCEYkqzJVC2xQY9xZ/view?usp=sharing)
+* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IC-ycF-fmsB7aZ5OCIgCHcuUgOJGHJvx/view?usp=sharing)
 
 <br></br>
 <br></br>
