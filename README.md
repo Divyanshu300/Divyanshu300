@@ -9,8 +9,7 @@
 * 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu800/StudyNotion.git) 
 * 🌱 I’m leveraging my skills in **MERN stack**
 
-* 👯 I’m currently collaborating on [SmartDagg - smart_web](https://github.com/SmartDagg/smart_web.git)
-
+* 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/Job-Chahiye-backend) and [House of Things](https://github.com/Divyanshu800/house-of-things)
 * 👨‍💻 I'm looking for exploring on **DevOps**
 
 * 💬 Ask me about **MERN, DSA**
