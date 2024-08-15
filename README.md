@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="350" height="300" src="https://t3.ftcdn.net/jpg/07/13/35/82/360_F_713358254_pM12hayFvGkMbXwU1wERawwC2Tu3Mfpy.jpg"/>
 
 
-* 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu800/StudyNotion.git) 
+* 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu800/StudyNotion.git)
+  
 * 🌱 I’m leveraging my skills in **MERN stack**
 
-* 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/Job-Chahiye-backend) and [House of Things](https://github.com/Divyanshu800/house-of-things)
-* 👨‍💻 I'm looking for exploring on **DevOps**
+* 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/Job-Chahiye-backend)
 
 * 💬 Ask me about **MERN, DSA**
 
