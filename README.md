@@ -10,7 +10,7 @@
   
 * 🌱 I’m leveraging my skills in **MERN stack**
 
-* 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/Job-Chahiye-backend)
+* 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/candidate-job-portal)
 
 * 💬 Ask me about **MERN, DSA**
 
