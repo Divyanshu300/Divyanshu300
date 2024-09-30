@@ -6,16 +6,16 @@
 <img align="right" alt="Coding" width="350" height="300" src="https://t3.ftcdn.net/jpg/07/13/35/82/360_F_713358254_pM12hayFvGkMbXwU1wERawwC2Tu3Mfpy.jpg"/>
 
 
-* 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu800/StudyNotion.git)
+* 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu800/StudyNotion.git) and [Smart Contact Manager](https://github.com/Divyanshu800/smart-contact-manager)
   
-* 🌱 I’m leveraging my skills in **MERN stack**
+* 🌱 I’m leveraging my skills in **MERN stack and Spring Boot**
 
-* 👯 I’m currently collaborating on [Job Chaahiye](https://github.com/TheLeftyCoder/candidate-job-portal)
-
+* 👯 I’m currently collaborating on [online job portal (campus specific)](https://github.com/tanya13agarwal/job-portal)
+* 👨‍💻 I'm looking for exploring on **Spring Boot**
 * 💬 Ask me about **MERN, DSA**
 
 * 📫 How to reach me **pathakdivyanshu800@gmail.com**
-
+* 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1lVHwv2AYHBhipA9UhnG-wcZQQ_5nIVox/view?usp=sharing)
 
 <br></br>
 <br></br>
