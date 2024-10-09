@@ -14,7 +14,7 @@
 * 👨‍💻 I'm looking for exploring on **Spring Boot**
 * 💬 Ask me about **MERN, DSA**
 
-* 📫 How to reach me **pathakdivyanshu800@gmail.com**
+* 📫 How to reach me **pathakdivyanshu300@gmail.com**
 * 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1lVHwv2AYHBhipA9UhnG-wcZQQ_5nIVox/view?usp=sharing)
 
 <br></br>
