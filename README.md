@@ -19,8 +19,8 @@
 
 <br></br>
 <br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu800&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu800" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu800" alt="divyanshu800" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu300&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu300" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu300" alt="divyanshu300" /></a> </p>
 
 <br></br>
 
@@ -37,8 +37,8 @@
 
 <br></br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu800&show_icons=true&locale=en&layout=compact" alt="divyanshu800" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu300&show_icons=true&locale=en&layout=compact" alt="divyanshu300" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu800&show_icons=true&locale=en" alt="divyanshu800" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu300&show_icons=true&locale=en" alt="divyanshu300" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu800&" alt="divyanshu800" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu300&" alt="divyanshu300" /></p>
