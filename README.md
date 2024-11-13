@@ -15,7 +15,7 @@
 * 💬 Ask me about **MERN, DSA**
 
 * 📫 How to reach me **pathakdivyanshu300@gmail.com**
-* 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1iVsVLutqAOvkujobUPmklsKh89abd812/view?usp=sharing)
+* 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1Fhk9VnJUp3fzifW297x0zk0THJXKH7cL/view?usp=sharing)
 
 <br></br>
 <br></br>
