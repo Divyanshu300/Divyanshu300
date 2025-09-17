@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Divyanshu Pathak</h1>
-<h3 align="center">Innovative Full Stack MERN Developer | C++ Data Structures and Algorithms Expert | Exploring the Frontiers of Data Science and Machine Learning</h3>
+<h3 align="center">Software Engineer | AI/ML Engineer | Backend Developer (Java, Spring, Python) | Distributed Systems (Kafka, Cassandra) | Full-Stack (MERN/MEAN) Background | Strong Problem-Solving with C++ DSA | Exploring System Design</h3>
 <br></br>
 <br></br>
 <img align="right" alt="Coding" width="350" height="300" src="https://t3.ftcdn.net/jpg/07/13/35/82/360_F_713358254_pM12hayFvGkMbXwU1wERawwC2Tu3Mfpy.jpg"/>
@@ -8,11 +8,10 @@
 
 * 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu300/StudyNotion) and [Smart Contact Manager](https://github.com/Divyanshu300/smart-contact-manager)
   
-* 🌱 I’m leveraging my skills in **MERN stack and Spring Boot**
+* 🌱 I’m leveraging my skills in **AI/ML and Backend(Python, Java, Spring, Kafka, Cassandra)**
 
-* 👯 I’m currently collaborating on [Campus Career Management System](https://github.com/tanya13agarwal/job-portal)
-* 👨‍💻 I'm looking for exploring on **Spring Boot**
-* 💬 Ask me about **MERN, DSA**
+* 👨‍💻 I'm looking for exploring on **System Design and building Scalable architectures**
+* 💬 Ask me about **Backend Technologies(Java Spring, Python), DSA**
 
 * 📫 How to reach me **pathakdivyanshu300@gmail.com**
 * 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1Fhk9VnJUp3fzifW297x0zk0THJXKH7cL/view?usp=sharing)
