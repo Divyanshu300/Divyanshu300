@@ -1,134 +1,64 @@
-# Hi 👋, I'm Divyanshu Pathak
+# Hi, I'm Divyanshu Pathak 👋
 
-### Software Engineer | Backend, Distributed Systems & AI/ML Engineer
+**Software Engineer · Backend, Distributed Systems & AI/ML** · Noida, India
 
-Building scalable backend platforms, event-driven microservices, real-time data pipelines, ML inference systems, and AI-powered applications using Java, Python, Spring Boot, Kafka, NATS, Kubernetes, Cassandra, AWS, RAG, and LLMs.
+I'm a Software Engineer with **~2 years** of experience at Contevolve, building Java/Spring Boot and Python systems for **Trapeze Group's public-transit Intelligent Transport Systems (ITS/ITCS)**, working with teams in **Switzerland and Poland**. My work spans event-driven microservices, real-time ML inference, and agentic RAG systems.
 
----
-
-## 🚀 Currently Working On
-
-* Distributed microservices and streaming systems using **Java, Spring Boot, Kafka, NATS JetStream**
-* Real-time prediction platforms and **ML inference pipelines**
-* Cloud-native deployments with **Docker, Kubernetes, AWS**
-* Agentic AI systems using **LangChain, LangGraph, Vector Databases, and LLMs**
-* System Design, Distributed Computing, and High-Availability Architectures
+[LinkedIn](https://linkedin.com/in/idivyanshu) · [Email](mailto:pathakdivyanshu300@gmail.com) · [LeetCode](https://leetcode.com/u/pathakdivyanshu300)
 
 ---
 
-## 💼 Professional Experience
+## 💼 What I work on — Contevolve (Client: Trapeze Group)
 
-### Software Engineer @ Contevolve (Client: Trapeze Group)
-
-* Built distributed microservices processing **10,000+ events/sec** for real-time transit prediction systems.
-* Designed production ML inference pipelines using **XGBoost** and **Time-Series Forecasting**.
-* Developed event-driven architectures using **Kafka, NATS JetStream, Cassandra, and Spring Boot**.
-* Implemented Kubernetes-based deployments with leader election, observability, health monitoring, and production reliability mechanisms.
-* Optimized high-throughput systems, reducing end-to-end latency by **65%**.
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 AI-Powered Incident Resolution System
-
-**RAG • Agentic AI • LangChain • Pinecone • NATS • Mistral**
-
-* Agentic RAG platform combining semantic search, tool-calling, and multi-agent orchestration.
-* Automated incident analysis and intelligent resolution workflows.
-* Event-driven asynchronous communication using NATS.
-
-### 📈 Real-Time Transit Prediction Platform
-
-**XGBoost • Kafka • Spring Boot • Time-Series Forecasting**
-
-* Real-time ML prediction platform for driving-time and dwell-time forecasting.
-* Combined historical baselines with live inference models.
-* Streaming architecture processing large-scale transportation events.
-
-### ⚡ Distributed Cache Optimization Service
-
-**Cassandra • Protocol Buffers • Spring Boot**
-
-* Reduced cache footprint by **95%**.
-* Improved retrieval latency by **80%**.
-* Increased database efficiency by **60%**.
-
-### 🎓 OpportuNest – Placement Management System
-
-**MERN Stack • Resume Parsing • ATS Scoring**
-
-* Full-stack campus placement platform serving **1000+ users**.
-* Resume parsing, ATS scoring, internship and placement workflows.
-* Published in **IEEE Xplore**.
-
-### 📚 StudyNotion – Learning Management Platform
-
-**MERN Stack**
-
-* Full-stack EdTech platform with authentication, course management, dashboards, and payment integration.
-
-### 📇 Smart Contact Manager
-
-**Java • Spring Boot • MySQL**
-
-* Secure contact management system with authentication, profile management, and cloud-based storage.
+- Event-driven **Java/Spring Boot microservices** on **Apache Kafka** and **NATS**, processing **10,000+ events/sec** of live transit data
+- Cut pipeline latency by **65%** through Amazon Keyspaces (Cassandra) query tuning and async, concurrent consumers
+- Re-architected task orchestration onto a multi-node **NATS JetStream KV** design for high availability and horizontal scaling
+- Run **15+ microservices on Kubernetes** with Lease-based leader election, liveness/readiness probes, and JVM deadlock detection
+- Productionized **XGBoost** and **time-series** models for driving, dwell, and link-level travel-time prediction at **90% accuracy**
+- Promoted from Software Engineer Trainee to Software Engineer within 6 months
 
 ---
 
-## 🛠 Tech Stack
+## 🏢 Professional projects (Trapeze Group)
 
-### Languages
+> Built for a client, so the source code is private. Happy to walk through the architecture in an interview.
 
-Java • Python • SQL • C++ • JavaScript
-
-### Backend & Distributed Systems
-
-Spring Boot • Microservices • Kafka • NATS JetStream • REST APIs • Event-Driven Architecture • API Gateway • Concurrency • Distributed Caching
-
-### AI & ML
-
-XGBoost • RAG • Agentic AI • LangChain • LangGraph • LLMs • Time-Series Forecasting • Semantic Search • Vector Databases • FastAPI • PyTorch
-
-### Cloud & DevOps
-
-AWS • Docker • Kubernetes • CI/CD • Linux • Observability • High Availability
-
-### Databases
-
-Cassandra • Redis • PostgreSQL • MongoDB • MySQL • Pinecone
+| Project | What it does | Stack | Impact |
+|---|---|---|---|
+| **AI-Powered Incident Resolution System** | Agentic RAG with multi-agent tool calling and semantic search that triages incidents and surfaces past resolutions | LangChain, Pinecone, Mistral LLMs, NATS | Sub-50ms responses under concurrent load |
+| **Real-Time Transit Prediction Platform** | Predicts driving, dwell, and link-level travel times by blending historical baselines with live inference | XGBoost, time-series forecasting, Kafka, Spring Boot, Amazon Keyspaces | 90% prediction accuracy |
+| **Distributed Cache Optimization Service** | Horizontally scaled cache using Protocol Buffers over Oracle DB | Java, Spring Boot, Protocol Buffers, Oracle DB | 95% smaller footprint, 80% faster retrieval, 60% less DB load |
 
 ---
 
-## 🧠 Interests
+## 🛠 Public projects
 
-* Distributed Systems
-* Event-Driven Architectures
-* Machine Learning Systems
-* Agentic AI
-* Cloud-Native Applications
-* System Design
-* Real-Time Data Processing
-* High-Performance Backend Engineering
+- **[Smart Contact Manager](https://github.com/Divyanshu300/Smart-Contact-Manager)**: Spring Boot, Spring Security, OAuth2 (Google/GitHub), Hibernate, MySQL, Thymeleaf, Tailwind CSS, Cloudinary. Secure contact management with search and pagination, email with attachments, and Excel export.
+- **[StudyNotion](https://github.com/Divyanshu300/StudyNotion)** · [Live demo](https://study-notion-pi-black.vercel.app/): MERN EdTech platform with authentication, course creation, ratings and reviews, an admin dashboard, video progress tracking, and Cloudinary media storage.
+- **OpportuNest**: MERN campus placement platform with resume parsing and ATS scoring for 1,000+ users, cutting hiring cycle time by 40%. Published in IEEE Xplore. <!-- ADD: repo link and IEEE paper link -->
+- **[tiny-gpt-practice](https://github.com/Divyanshu300/tiny-gpt-practice)**: character-level language model that learns from a text corpus and generates new text one character at a time.
+
+---
+
+## 🧰 Tech stack
+
+**Languages:** Java · Python · SQL · C++ · JavaScript
+
+**Backend & Distributed Systems:** Spring Boot · Microservices · Event-Driven Architecture · Apache Kafka · NATS JetStream · REST APIs · FastAPI · Protocol Buffers · Multithreading & Concurrency
+
+**AI/ML:** RAG · Agentic AI · Multi-Agent Systems · LangChain · LangGraph · LLMs · XGBoost · Time-Series Forecasting · PyTorch · Hugging Face Transformers
+
+**Cloud & DevOps:** Kubernetes · Docker · AWS (EC2, S3, VPC) · CI/CD · Azure DevOps · Linux
+
+**Databases:** Amazon Keyspaces (Cassandra) · Oracle DB · PostgreSQL · MySQL · Redis · MongoDB · Pinecone
+
+**Transit / ITS domain:** ITCS · Arrival/departure prediction · Run-time & dwell-time analysis · Schedule adherence · SIRI & VDV (familiar)
 
 ---
 
 ## 🏆 Highlights
 
-* Software Engineer @ Contevolve
-* IEEE Xplore Publication (OpportuNest)
-* Patent Publication – IoT Enabled Street Light Regulation System
-* 300+ DSA Problems Solved (LeetCode)
-* Open to Backend, Distributed Systems, AI/ML, and Software Engineering opportunities
-
----
-
-## 📫 Connect With Me
-
-📧 [pathakdivyanshu300@gmail.com](mailto:pathakdivyanshu300@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/idivyanshu
-
-💻 LeetCode: leetcode.com/u/pathakdivyanshu300
-
-🚀 Always interested in building scalable systems, intelligent platforms, and solving challenging engineering problems.
+- IEEE Xplore publication (co-author): OpportuNest
+- Published patent (App. No. 202311084616): IoT-enabled street-light regulation system with 40% energy savings
+- 300+ DSA problems solved in C++ on LeetCode and GeeksforGeeks
+- Open to Backend, Distributed Systems, AI/ML Engineer, and SDE roles
